@@ -1,4 +1,4 @@
-import { CardContanier, IconContanier } from "./Home.styles";
+import { CardContanier, IconContanier, ButtonContanier } from "./Home.styles";
 
 import iconStarImg from "../assets/icon-star.svg"
 
